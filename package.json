@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "This is a side project introduced in The Complete Web Developer in 2020: Zero to Mastery, with the button features I implemented on my own.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pochingto/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pochingto/background-generator/issues"
+  },
+  "homepage": "https://github.com/Pochingto/background-generator#readme"
+}
